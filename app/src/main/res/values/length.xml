@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_length">
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+    </string-array>
+    <string-array name="arr_volume">
+        <item>cm^2</item>
+        <item>dm^2</item>
+        <item>m^2</item>
+    </string-array>
+    <string-array name="arr_Metric_conversion">
+        <item>Bin</item>
+        <item>Oct</item>
+        <item>Dec</item>
+    </string-array>
+</resources>
